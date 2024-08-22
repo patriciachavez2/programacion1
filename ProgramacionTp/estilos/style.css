@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    font-family:cursive;
+}
+
+#integrantes {
+    text-decoration: underline;
+    margin-left: 20px;
+}
+
+#miembro {
+    margin-left: 20px;
+    font-family: cursive;
+}
+
+#miembro:hover{
+    background-color: aqua;
+
+}
+
+.contenedor {
+    border: solid 1px black;
+    border-radius: 20px;
+    width: 50%;
+    background-color: rgb(226, 19, 226);
+    margin-left: 300px;
+}
+
